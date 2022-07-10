@@ -63,6 +63,7 @@ int SetNewDorPosision = 9;
 bool myPowerState = false;
 unsigned long lastBtnPress = 0;
 
+
 /* bool onPowerState(String deviceId, bool &state) 
  *
  * Callback for setPowerState request
